@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-container {
+  overflow: hidden;
+}
+.swiper-pagination {
+  bottom: 0;
+  position: relative;
+}
